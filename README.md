@@ -42,8 +42,7 @@ def tambah():
         nilaiakhir = (tugas * 0.3 + uts * 0.35 + uas * 0.35)
         data[nama] = nim, tugas, uts, uas, nilaiakhir
 ```
-Untuk menambah data, user harus mengetikkan "t" pada pilihan menu.
-Berikut ini adalah contoh ketika program dijalankan
+Untuk menambah data, user harus mengetikkan "t" pada pilihan menu,seperti dibawah ini:
 ![gambar 2](ss/2.png)<p>
 
 * Lihat<p>
@@ -154,5 +153,8 @@ while True:
     else:
         print("\nAnda memasukkan pilihan yang salah")
 ```
+<p>
 
+## Flowchart
+![gambar 8](ss/flow.png)
 
